@@ -1,0 +1,4 @@
+#Wed Oct 30 13:54:27 BRT 2019
+base.0=/home/mateusrp/GoogleDrive/Multiplatform-Mobile-App-Development-with-Web-Technologies-Ionic-Phonegap-and-Cordova/HelloWorldPhonegap/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

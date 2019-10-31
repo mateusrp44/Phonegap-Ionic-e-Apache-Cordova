@@ -1,0 +1,49 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.mateus.helloworldphonegap"
+    }
+  }
+}
