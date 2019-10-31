@@ -1,0 +1,13 @@
+{
+  "name": "com.mateus.plugindevice",
+  "version": "1.0.0",
+  "displayName": "PluginDevice",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.4"
+  }
+}
