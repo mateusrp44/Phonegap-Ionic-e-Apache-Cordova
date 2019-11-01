@@ -1,0 +1,13 @@
+{
+  "name": "com.mateus.pluginnetwork",
+  "version": "1.0.0",
+  "displayName": "PluginNetwork",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.4"
+  }
+}
