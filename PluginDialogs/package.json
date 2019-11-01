@@ -1,0 +1,13 @@
+{
+  "name": "com.mateus.plugindialogs",
+  "version": "1.0.0",
+  "displayName": "PluginDialogs",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "^7.1.4"
+  }
+}
